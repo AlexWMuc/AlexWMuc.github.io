@@ -8,5 +8,6 @@ Kann auf Sterne-Niveau kochen, kocht aber lieber Hausmannskost
 Ein bisschen dick
 Sehr neugierig
 Modernen Errungenschaften sehr skeptisch gegenüber
+Noch was
 
 
